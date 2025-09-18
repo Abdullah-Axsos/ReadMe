@@ -1,6 +1,6 @@
 # Data Science Projects – Axsos Academy
 
-This repository contains a collection of data science projects completed as part of the training program at Axsos Academy. Each project focuses on applying real-world data analysis and machine learning techniques to explore, model, and derive insights from datasets across different domains.
+This repository contains a collection of data science projects completed as part of the training program at Axsos Academy. Each project applies real-world data analysis and machine learning techniques to solve practical problems and gain actionable insights.
 
 ---
 
@@ -8,52 +8,64 @@ This repository contains a collection of data science projects completed as part
 
 The main goals of these projects are to:
 
-- Practice key data science workflows using real datasets  
-- Strengthen skills in data cleaning, visualization, and feature engineering  
-- Apply machine learning and statistical modeling techniques  
-- Interpret and communicate findings through notebooks and reports  
-- Develop problem-solving and critical thinking using data
+- Practice core data science workflows using real datasets  
+- Enhance skills in data cleaning, visualization, and preprocessing  
+- Build and evaluate machine learning and statistical models  
+- Communicate findings effectively through notebooks and summaries  
+- Apply problem-solving and critical thinking using data-driven approaches
 
 ---
 
 ## Projects Included
 
-### 1. Chicago Crime Data Analysis (2001–2022)
-- Exploratory analysis of crime patterns in Chicago  
-- Time series forecasting using ARIMA/SARIMA models  
-- Crime trend prediction to support law enforcement planning
+### 1. Prediction of Product Sales
+This project aims to predict future product sales using historical sales data. It includes:
 
-### 2. [Add Another Project Title Here]
-- Description of the second project goes here (e.g., sales prediction, customer segmentation, etc.)
+- Data exploration and visualization  
+- Handling missing values and outliers  
+- Feature engineering  
+- Training regression models (Linear Regression, Random Forest, etc.)  
+- Model evaluation and comparison  
+- Providing business recommendations based on the results
 
-### 3. [Add Another Project Title Here]
-- Description of the third project goes here (e.g., product recommendation, sentiment analysis, etc.)
+---
 
-*Each project is self-contained in its own Jupyter Notebook with code, outputs, and documentation.*
+### 3. Chicago Crime Data Analysis (2001–2022)
+This project analyzes crime trends in Chicago from 2001 to 2022 and forecasts future crime patterns. It includes:
+
+- Exploratory Data Analysis (EDA)  
+- Analysis of crime distribution by year, district, and time of day  
+- Time series forecasting using ARIMA and SARIMA models  
+- Prediction of crime rates for upcoming months  
+- Visualizations and insights to support public safety planning
+
+---
+
+### 4. [Upcoming Project]
+This project is currently under development and will be added soon.
 
 ---
 
 ## Repository Contents
 
-- Jupyter notebooks with code and visualizations  
-- Data cleaning and preprocessing pipelines  
-- Exploratory Data Analysis (EDA) and feature engineering  
-- Predictive modeling and evaluation  
-- Final reports and summaries
+- Jupyter notebooks with full analysis, code, and visualizations  
+- Cleaned and prepared datasets (or scripts for loading them)  
+- EDA, modeling, and evaluation sections in each notebook  
+- Summary of results and recommendations
 
 ---
 
 ## Technologies Used
 
 - **Python 3.8+**
-- **Main Libraries**:
+- **Libraries**:
   - pandas  
   - numpy  
   - matplotlib  
   - seaborn  
   - scikit-learn  
   - statsmodels  
-  - pmdarima (for time series)
+  - pmdarima  
 - **Platform**: Google Colab
 
 ---
@@ -61,16 +73,16 @@ The main goals of these projects are to:
 ## How to Use
 
 1. Clone the repository  
-2. Open the desired project notebook  
-3. Follow the steps in the notebook (cells are organized and commented)  
-4. Install any required packages using pip or refer to `requirements.txt`  
-5. Run and explore the analysis or model output  
+2. Open the desired notebook in Google Colab  
+3. Install required libraries using pip or `requirements.txt`  
+4. Run the notebook cells step-by-step  
+5. Review visualizations and model outputs
 
 ---
 
 ## Requirements
 
-Make sure to have Python 3.8 or later and install the required packages:
+Install the required Python libraries:
 
 ```bash
-pip install -r requirements.txt
+pip install pandas numpy matplotlib seaborn scikit-learn statsmodels pmdarima
