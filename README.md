@@ -1,35 +1,22 @@
-# ReadMe
-This repository contains a Data Science training project completed as part of the bootcamp program at Axsos Academy.
+# Data Science Projects – Axsos Academy
 
-📌 Project Objective
-The main goal of this project is to apply key concepts in data science, including:
-- Exploratory Data Analysis (EDA)
-- Data cleaning and preprocessing
-- Building machine learning models
-- Model evaluation and improvement
+This repository contains a collection of data science projects completed as part of the training program at Axsos Academy. Each project focuses on applying real-world data analysis and machine learning techniques to explore, model, and derive insights from datasets across different domains.
 
-📂 Project Contents
-- Sample datasets used during training
-- Colab Notebooks with analysis, visualizations, and models
-- Reports and summaries of findings
+---
 
-⚙️ Requirements
-To run this project, make sure you have:
-- Python 3.8 or higher
-- The following libraries (installable via requirements.txt):
-   - pandas
-   - numpy
-   - matplotlib
-   - seaborn
-   - scikit-learn
+## Objectives
 
+The main goals of these projects are to:
 
-▶️ How to Run
-1. Clone the repository
-2. Install the required libraries
-3. Launch Colab Notebook
-4. Open and run the notebooks step by step
+- Practice key data science workflows using real datasets  
+- Strengthen skills in data cleaning, visualization, and feature engineering  
+- Apply machine learning and statistical modeling techniques  
+- Interpret and communicate findings through notebooks and reports  
+- Develop problem-solving and critical thinking using data
 
-📝 Notes
-This project was created for educational and training purposes only as part of the Data Science track at Axsos Academy.
+---
 
+## Projects Included
+
+### 1. Chicago Crime Data Analysis (2001–2022)
+- Exploratory
