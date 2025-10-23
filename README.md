@@ -1,88 +1,39 @@
-# Data Science Projects – Axsos Academy
+# Abdullah Ebaid – Data Science Projects
 
-This repository contains a collection of data science projects completed as part of the training program at Axsos Academy. Each project applies real-world data analysis and machine learning techniques to solve practical problems and gain actionable insights.
-
----
-
-## Objectives
-
-The main goals of these projects are to:
-
-- Practice core data science workflows using real datasets  
-- Enhance skills in data cleaning, visualization, and preprocessing  
-- Build and evaluate machine learning and statistical models  
-- Communicate findings effectively through notebooks and summaries  
-- Apply problem-solving and critical thinking using data-driven approaches
+Welcome! 👋 I’m Abdullah, an aspiring **Data Analyst** with hands-on experience in **data science, machine learning, and data visualization**. This repository showcases selected projects from my **Data Science & Machine Learning Bootcamp at Axsos Academy**. Each project applies **real-world datasets** and techniques to generate actionable insights.
 
 ---
 
-## Projects Included
-
-### 1. Prediction of Product Sales
-This project aims to predict future product sales using historical sales data. It includes:
-
-- Data exploration and visualization  
-- Handling missing values and outliers  
-- Feature engineering  
-- Training regression models (Linear Regression, Random Forest, etc.)  
-- Model evaluation and comparison  
-- Providing business recommendations based on the results
+## 🔹 Certifications
+| Certificate | Provider | Date | Details |
+|------------|---------|------|--------|
+| Data Science & Machine Learning Bootcamp | Axsos Academy | 05/10/2025 | 660 hours, online, part-time. Covered ML, Time Series, DS fundamentals |
+| Python Workshop | Qafza Tech | 16/09/2025 | Hands-on training in Python basics for analysis & automation |
+| Data Analyst Mindset Workshop | Qafza Tech | 16/10/2025 | Business thinking, data insights communication |
+| Power BI Workshop | Qafza Tech | 21/10/2025 | KPI dashboards, DAX, interactive reports |
 
 ---
 
-### 3. Chicago Crime Data Analysis (2001–2022)
-This project analyzes crime trends in Chicago from 2001 to 2022 and forecasts future crime patterns. It includes:
+## 🔹 Projects Highlights
 
-- Exploratory Data Analysis (EDA)  
-- Analysis of crime distribution by year, district, and time of day  
-- Time series forecasting using ARIMA and SARIMA models  
-- Prediction of crime rates for upcoming months  
-- Visualizations and insights to support public safety planning
-
----
-
-### 4. [Upcoming Project]
-This project is currently under development and will be added soon.
+| Project | Description | Key Skills & Tools | Link |
+|---------|-------------|--------------------|------|
+| **Prediction of Product Sales** | Forecast future product sales using historical data | Python, Pandas, Scikit-learn, Tableau, Time Series Forecasting | [Notebook](https://github.com/Abdullah-Axsos/ReadMe/blob/main/Project_1.ipynb) |
+| **Chicago Crime Data Analysis (2001–2022)** | Analyze and forecast crime trends in Chicago | Python, Pandas, Seaborn, Matplotlib, ARIMA/SARIMA | [Notebook](https://github.com/Abdullah-Axsos/ReadMe/blob/main/Project_3.ipynb) |
+| **Zillow Home Value Analysis & Forecasting** | Predict housing prices and market trends | Python, Scikit-learn, Feature Engineering, Tableau  | [Notebook](https://github.com/Abdullah-Axsos/ReadMe/blob/main/Zillow%20Home.ipynb) |
 
 ---
 
-## Repository Contents
-
-- Jupyter notebooks with full analysis, code, and visualizations  
-- Cleaned and prepared datasets (or scripts for loading them)  
-- EDA, modeling, and evaluation sections in each notebook  
-- Summary of results and recommendations
+## 🔹 Skills & Tools
+- **Languages & Libraries:** Python, Pandas, NumPy, Scikit-learn, Statsmodels, Seaborn, Matplotlib
+- **Data Visualization & BI:** Tableau, Power BI, Google Sheets
+- **Other Tools:** Jupyter Notebook, Google Colab, GitHub
 
 ---
 
-## Technologies Used
-
-- **Python 3.8+**
-- **Libraries**:
-  - pandas  
-  - numpy  
-  - matplotlib  
-  - seaborn  
-  - scikit-learn  
-  - statsmodels  
-  - pmdarima  
-- **Platform**: Google Colab
-
----
-
-## How to Use
-
-1. Clone the repository  
-2. Open the desired notebook in Google Colab  
-3. Install required libraries using pip or `requirements.txt`  
-4. Run the notebook cells step-by-step  
-5. Review visualizations and model outputs
-
----
-
-## Requirements
-
-Install the required Python libraries:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn statsmodels pmdarima
+## 🔹 How to Explore
+1. Clone this repository
+2. Open any project notebook in **Google Colab**
+3. Install dependencies:
+   ```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn statsmodels pmdarima
